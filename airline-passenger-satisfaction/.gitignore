@@ -1,8 +1,0 @@
-.DS_Store
-.ipynb_checkpoints/
-__pycache__/
-.venv/
-
-# Keep the original datasets local until their redistribution licence is confirmed.
-data/raw/*.csv
-

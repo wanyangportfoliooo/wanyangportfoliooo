@@ -18,7 +18,7 @@ Master of Information Technology student at the University of Technology Sydney,
 
 | Project | Tools | What it demonstrates |
 |---|---|---|
-| [Open project](./depop-marketplace-sql-database/) | PostgreSQL, SQL, relational modelling | Designed a normalised marketplace database covering users, listings, categories, transactions, shipments, and social relationships. Added integrity constraints, reusable views, sample data, and analytical queries. |
+| [Open project](https://github.com/wanyangportfoliooo/secondhand-marketplace-sql) | PostgreSQL, SQL, relational modelling | Designed a normalised marketplace database covering users, listings, categories, transactions, shipments, and social relationships. Added integrity constraints, reusable views, sample data, and analytical queries. |
 
 **Business question:** How can a second-hand fashion marketplace structure reliable operational data and make it usable for listing, sales, customer, and engagement analysis?
 
@@ -36,13 +36,13 @@ Master of Information Technology student at the University of Technology Sydney,
 - The five rated purchases average **4.4/5**.
 - One of eight listings has no transaction, making unsold inventory easy to identify for seller follow-up.
 
-[Read the full case study →](./depop-marketplace-sql-database/README.md)
+[Read the full case study →](https://github.com/wanyangportfoliooo/secondhand-marketplace-sql)
 
 ### Airline Passenger Satisfaction Analysis — Work in progress
 
 | Project | Tools | Current stage |
 |---|---|---|
-| [Open project](./airline-passenger-satisfaction/) | Python, pandas, Jupyter, matplotlib, seaborn | Completed a reproducible data-understanding and quality-assurance notebook covering target balance, missingness, duplicate checks, category consistency, numeric ranges, and train/unknown compatibility. |
+| [Open project](https://github.com/wanyangportfoliooo/airline-passenger-satisfaction) | Python, pandas, Jupyter, matplotlib, seaborn | Completed a reproducible data-understanding and quality-assurance notebook covering target balance, missingness, duplicate checks, category consistency, numeric ranges, and train/unknown compatibility. |
 
 **Verified dataset profile**
 
@@ -52,19 +52,19 @@ Master of Information Technology student at the University of Technology Sydney,
 - `Arrival Delay in Minutes` is the only field with missing values (approximately 0.3%)
 - Raw CSV files remain excluded until their redistribution licence is confirmed
 
-[Review the current notebook →](./airline-passenger-satisfaction/notebooks/01_data_understanding.ipynb)
+[Review the current notebook →](https://github.com/wanyangportfoliooo/airline-passenger-satisfaction/blob/main/notebooks/01_data_understanding.ipynb)
 
 ## SQL
 
 | Project | Area of analysis | Project description |
 |---|---|---|
-| [Depop Marketplace SQL Database](./depop-marketplace-sql-database/) | Data modelling, data integrity, marketplace analysis | Builds a PostgreSQL database from schema to analysis, including reusable views for listing details and user transaction summaries. |
+| [Depop Marketplace SQL Database](https://github.com/wanyangportfoliooo/secondhand-marketplace-sql) | Data modelling, data integrity, marketplace analysis | Builds a PostgreSQL database from schema to analysis, including reusable views for listing details and user transaction summaries. |
 
 ## Python
 
 | Project | Area of analysis | Project description |
 |---|---|---|
-| [Airline Passenger Satisfaction Analysis](./airline-passenger-satisfaction/) | Data quality, exploratory foundations, classification preparation | Audits supplied training and prediction datasets before modelling. The project is being rebuilt incrementally so that every published result is reproducible and understood. |
+| [Airline Passenger Satisfaction Analysis](https://github.com/wanyangportfoliooo/airline-passenger-satisfaction) | Data quality, exploratory foundations, classification preparation | Audits supplied training and prediction datasets before modelling. The project is being rebuilt incrementally so that every published result is reproducible and understood. |
 
 ## Skills demonstrated
 
