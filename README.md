@@ -2,8 +2,6 @@
 
 Master of Information Technology student at the University of Technology Sydney, building practical analytics projects with SQL, relational data modelling, and business-focused analysis.
 
-> This portfolio is organised for a quick hiring-manager review: start with the featured project, scan the demonstrated skills, then open the repository for the full methodology and code.
-
 ## Portfolio contents
 
 - [Featured project](#featured-project)
