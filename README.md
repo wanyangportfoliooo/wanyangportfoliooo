@@ -1,4 +1,4 @@
-# Wan-Lin Yang — Data Analyst Portfolio
+# Wan-Lin Yang — Portfolio
 
 Master of Information Technology student at the University of Technology Sydney, building practical analytics projects with SQL, relational data modelling, and business-focused analysis.
 
