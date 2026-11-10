@@ -63,13 +63,14 @@ Master of Information Technology student at the University of Technology Sydney,
 | Project | Area of analysis | Project description |
 |---|---|---|
 | [Airline Passenger Satisfaction Analysis](https://github.com/wanyangportfoliooo/airline-passenger-satisfaction) | Data quality, exploratory foundations, classification preparation | Audits supplied training and prediction datasets before modelling. The project is being rebuilt incrementally so that every published result is reproducible and understood. |
+| [Magic Squares: CSP, SA and GA](https://github.com/wanyangportfoliooo/magic-squares-search) | Search algorithms, experiment design, performance comparison | Compares constraint propagation with backtracking, Simulated Annealing and a Genetic Algorithm on N × N magic squares over 900 timed runs, and explains when each method works or fails. |
 
 ## Skills demonstrated
 
 | Skill | Evidence |
 |---|---|
 | SQL | Joins, aggregations, subqueries, `NOT EXISTS`, self-joins, views |
-| Python | pandas-based profiling, validation checks, reusable functions, and notebook workflows |
+| Python | pandas-based profiling, validation checks, reusable functions, notebook workflows, and search algorithms with NumPy |
 | Data modelling | One-to-many, many-to-many, and self-referencing relationships |
 | Data quality | `PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, `UNIQUE`, and `NOT NULL` constraints |
 | Business analysis | Marketplace sales, fee, inventory, brand, customer, and social-network questions |
@@ -79,4 +80,4 @@ Master of Information Technology student at the University of Technology Sydney,
 
 I am developing my data analytics portfolio around clear business questions, reproducible analysis, and concise communication of results. Each project in this repository is based on work that can be inspected in the linked source files.
 
-Portfolio last updated: August 2026.
+Portfolio last updated: November 2026.
